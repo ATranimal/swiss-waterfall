@@ -1,0 +1,8 @@
+Player 1|MTL
+Player 2|MTL
+Player 3|MTL
+Player 4|TOR
+Player 5|TOR
+Player 6|MTL
+Player 7|MTL
+Player 8|OTT
